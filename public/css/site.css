@@ -1,0 +1,6 @@
+@import "bootstrap.css";
+@import "font-awesome.css";
+
+.container-fluid{
+    padding: 0;
+}

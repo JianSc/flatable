@@ -1,0 +1,19 @@
+.auth-wrapper {
+    background-image: url("../images/auth/auth-bg.jpg");
+}
+
+.auth-wrapper .auth-content {
+    width: 460px !important;
+}
+
+.pcoded-navbar {
+    position: fixed;
+}
+
+.pcoded-header.header-dark {
+    position: fixed;
+}
+
+.pcoded-main-container {
+    margin-top: 57px;
+}
